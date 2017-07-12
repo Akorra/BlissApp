@@ -33,7 +33,7 @@ public class LoadingScreen extends AppCompatActivity implements Requests {
 
                 try{
                     mResponse= response.getString("status");
-                    if(mResponse.compareTo("OKi")==0){
+                    if(mResponse.compareTo("OK")==0){
                         goToListScreen();
                     }else{
                         retryAction();
