@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BlissApp</string>
+    <!-- Loading Screen Activity -->
+    <string name="entry">Recruitment App</string>
+    <string name="ServerDown">The Server isn\'t feeling so well right now, maybe try again later... OR NOW!!!</string>
+    <string name="DownTitle">Server is Sick!</string>
+    <string name="tryA">Try Again</string>
 </resources>
